@@ -403,7 +403,7 @@ _decorate([e$1("lit-toolbar")], function (_initialize, _LitElement) {
   };
 }, s);
 
-let AndysTable = _decorate([e$1('andys-table')], function (_initialize, _LitElement) {
+let AndysTable = _decorate([e$1('andys-table-test')], function (_initialize, _LitElement) {
   class AndysTable extends _LitElement {
     constructor(...args) {
       super(...args);
@@ -1520,7 +1520,7 @@ let AndysTable = _decorate([e$1('andys-table')], function (_initialize, _LitElem
       </div>
       <script>
         
-  const nacTable = document.querySelector("andys-table");
+  const nacTable = document.querySelector("andys-table-test");
 
   
 </script>
